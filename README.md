@@ -1,7 +1,7 @@
 # archaeology-gis-scripts
 Some helper scripts for GIS in archaeology.
 
-# fix.pl
+# fix-f.pl
 
 Automatically distribute finds on each grid when granularity of data is too high.
 
@@ -38,6 +38,10 @@ grid;stones;bones;coins
 52b;4.5;4;1.5
 52c;1;0;2
 ```
+
+# fix-r.pl
+
+Same as fix-f.pl just for a different grid system.
 
 # schema.pl
 
